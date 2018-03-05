@@ -1,4 +1,4 @@
-FROM docker.io/centos:6.6 
+FROM docker.io/centos:6.9
 
 RUN yum update -y
 
