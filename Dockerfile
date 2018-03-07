@@ -1,3 +1,3 @@
-FROM index.docker.io/centos:6.6
+FROM centos:centos6
 
 RUN yum update -y
